@@ -1,0 +1,6 @@
+{
+  "name": "Ubuntu Server 22.04 LTS Visualizer",
+  "description": "Media Pembelajaran Interaktif Terminal Linux & Visualisasi Direktori Ubuntu Server 22.04 LTS untuk SMK/SIJA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
